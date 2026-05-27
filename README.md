@@ -47,3 +47,6 @@ ec2_config = {
   instance_name = "my-ec2"
 }
 ```
+💡
+Terraform → AWS Provider → AWS EC2 Instance → VPC → Subnet → Security Group
+
